@@ -1,6 +1,6 @@
 ![Header](assets/Event-bot.png)
 
-<h2 aligin="center">A bot with which you can manage events in different groups and so that people can easily make decisions.</h2>
+<h2 align="center"> A bot with which you can manage events in different groups and so that people can easily make decisions.</h2>
 
 ### Import list for Event bot
 
