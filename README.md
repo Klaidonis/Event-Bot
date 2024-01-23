@@ -1,4 +1,4 @@
-![Header](https://github.com/Klaidonis/Event-Bot/tree/main/assets/Event-Bot.png)
+![Header](https://github.com/Klaidonis/Event-Bot/tree/main/assets/Event-bot.png)
 
 ## A bot with which you can manage events in different groups and so that people can easily make decisions.
 
