@@ -1,4 +1,4 @@
-![Header](https://github.com/Klaidonis/Event-Bot/tree/main/assets/Event-bot.png)
+![Header](assets/Event-bot.png)
 
 ## A bot with which you can manage events in different groups and so that people can easily make decisions.
 
@@ -17,25 +17,6 @@
     </ul>
 </div>
 </body>
-
-<style>
-    .import-list {
-        background: #171717;
-        padding: 10px;
-        color: white;
-        font-size: 17px;
-        font-family: "Roboto Black";
-    }
-
-    .technical-task th, .technical-task td {
-        font-family: "Roboto Black";
-        border: 1px white solid;
-        background: #171717;
-        letter-spacing: 2px;
-        line-height: 2;
-    }
-</style>
-
 # A more detailed account of what exactly the bot does.
 
 <body>
@@ -141,7 +122,6 @@
     5.1.3.1.1 If there are such users, then there is one whose num_waiting field has the maximum value and the waiting and num_waiting fields are cleared for him. <br>
     5.1.3.2 if not, then we send the user a push – "Thank you for warning! We'll be waiting for you next time."</p>
 </div>
-</body>
 <style>
     .Reaction-buttons {
         background-color: #171717;
@@ -156,4 +136,19 @@
         letter-spacing: 2px;
         line-height: 1.5;
     }
+    .import-list {
+        background: #171717;
+        padding: 10px;
+        color: white;
+        font-size: 17px;
+        font-family: "Roboto Black";
+    }
+    .technical-task th, .technical-task td {
+        font-family: "Roboto Black";
+        border: 1px white solid;
+        background: #171717;
+        letter-spacing: 2px;
+        line-height: 2;
+    }
 </style>
+</body>
