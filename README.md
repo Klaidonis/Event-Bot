@@ -20,7 +20,7 @@
 # A more detailed account of what exactly the bot does.
 
 <body>
-<div class="technical-task">
+<div class="technical-task" Color="red">
     <h2>For Administrator</h2>
     <table>
         <thead>
